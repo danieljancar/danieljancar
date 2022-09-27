@@ -5,7 +5,7 @@
   - Front-End Developing
   - Photoediting
   - Videoediting 
-  - Crypto Trading  <br>
+  - Crypto Trading
  **📫 How to reach me**   
   - My Portofolio
   - Social Media
