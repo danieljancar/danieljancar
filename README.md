@@ -6,7 +6,7 @@
   - Photoediting
   - Videoediting 
   - Crypto Trading <br>
- **📫 How to reach me**   
+ **📫 How to reach me:**   
   - My Portofolio
   - Social Media
   - Email
