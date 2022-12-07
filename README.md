@@ -13,7 +13,7 @@ Im an individual who's interested in Coding and todays Computertechnology.
 * English (B2)
 * Russian (B1)
 * Ukrainian (A1)
-## 🚀Skills && Interests
+## 🚀 Skills && Interests
 * Programming / OOP / Interface (Java, C#)
 * Website Developement (PHP, HTML5, CSS, Javascript)
 * Web-App Developement (TypeScript, HTML, CSS / SCSS, JS)
