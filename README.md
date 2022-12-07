@@ -11,8 +11,10 @@ Im an individual who's interested in Coding and todays Computertechnology.
 <img src="https://cdn-icons-png.flaticon.com/512/555/555582.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/4060/4060233.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/8617/8617292.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/3373/3373300.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/3373/3373317.png" alt="drawing" width="30"/>
 ## 🚀 Skills && Interests
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -24,6 +26,7 @@ Im an individual who's interested in Coding and todays Computertechnology.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔥 Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sigmale1000&theme=dark)](https://git.io/streak-stats)
