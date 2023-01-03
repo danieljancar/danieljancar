@@ -30,7 +30,6 @@ Im an individual who's interested in Coding and todays Computertechnology!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔥 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sigmale1000&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigmale1000&layout=compact&theme=dark)
 ## <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord Icon" width="30"/>  Discord
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/970784465985085481?theme=dark&bg=black&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/970784465985085481)
