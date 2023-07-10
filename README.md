@@ -3,7 +3,7 @@
 # Sigmale1000
 ![](https://komarev.com/ghpvc/?username=Sigmale1000&color=blue) <br>
 **Hey there!** <br>
-I'm ***Sigmale1000*** but you can call me ***Daniel*** and I come from ***Switzerland***. <br>
+I´m ***Daniel*** and I come from ***Switzerland***. <br>
 Im an individual who's interested in Coding and todays Computertechnology!
 
         Currently doing an apprenticeship as a Software Developer
