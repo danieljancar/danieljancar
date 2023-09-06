@@ -1,6 +1,6 @@
 
 ![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-# Sigmale1000
+# Daniel Jancar
 ![](https://komarev.com/ghpvc/?username=Sigmale1000&color=blue) <br>
 **Hey there!** <br>
 I´m ***Daniel*** and I come from ***Switzerland***. <br>
