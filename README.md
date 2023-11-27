@@ -11,12 +11,12 @@ I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by cod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
 ## 🛠️ Skills & Technologies
-- Languages: Typescript, Javascript, Java, C#
-- Frameworks: Angular, NestJS, React, Spring
+- Languages: Typescript, Javascript, Java, C#, Swift
+- Frameworks: Angular, NestJS, React, Spring, Ionic
 - Tools: Docker, Git, Github Actions
 - Database: MongoDB, MySQL, Redis, SQLite, Firestore
 - Security: Authentication, JWT, Cookies
-- Misc: KISS, Single Responsibility, Open/Closed, Docs
+- Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge
 
 ## 📚 Learning & Growing
 - Currently learning: Go
