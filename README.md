@@ -11,7 +11,7 @@ I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by cod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
 ## 🛠️ Skills & Technologies
-- Languages: Typescript, Javascript, Java, C#, 
+- Languages: Typescript, Javascript, Java, C#
 - Frameworks: Angular, NestJS, React, Spring
 - Tools: Docker, Git, Github Actions
 - Database: MongoDB, MySQL, Redis, SQLite, Firestore
