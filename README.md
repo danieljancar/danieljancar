@@ -26,8 +26,8 @@ I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by cod
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljancar&show_icons=true&theme=dark)
 
 ## 🤝 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](mailto:danieljancar@bluewin.ch)
+- LinkedIn: [Let's connect!](https://www.linkedin.com/in/danieljancar/)
+- Email: [Contact me!](mailto:danieljancar@bluewin.ch)
 
 ---
 > "Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs
