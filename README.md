@@ -25,7 +25,7 @@ I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by cod
 ## 📈 GitHub Analytics
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljancar&show_icons=true&theme=dark)
 
-## 🤝 Connect with Me
+## 🤝 Socials
 - LinkedIn: [Let's connect!](https://www.linkedin.com/in/danieljancar/)
 - Email: [Contact me!](mailto:danieljancar@bluewin.ch)
 
