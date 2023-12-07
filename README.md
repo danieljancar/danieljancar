@@ -17,6 +17,7 @@ I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by cod
 - Database: MongoDB, MySQL, Redis, SQLite, Firestore
 - Security: Authentication, JWT, Cookies
 - Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge
+- Tools: Excalidraw, Figma, Miro, Stackoverflow, Discord, ISO
 
 ## 📚 Learning & Growing
 - Currently learning: Go
