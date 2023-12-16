@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sigmale1000&color=blue) <br>
 **Hey there!** <br>
-I'm ***Daniel*** from ***Switzerland***, a passionate developer intrigued by coding and cutting-edge computer technology!
+I'm a a passionate developer and tech enthusiast. I love to learn new things, work with Angular and help out where I can.
 
 ## 🌐 Languages Spoken
 <img src="https://cdn-icons-png.flaticon.com/512/555/555582.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/4060/4060233.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/8617/8617292.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/3373/3373300.png" alt="drawing" width="30"/>  <img src="https://cdn-icons-png.flaticon.com/512/3373/3373317.png" alt="drawing" width="30"/>
