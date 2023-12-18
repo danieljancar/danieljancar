@@ -1,4 +1,4 @@
-## Daniel Jancar
+## Hey There!
 Born in Switzerland, my fascination with technology began in my early years. This childhood curiosity evolved into a deep passion for computer science and software engineering, shaping my path in live. My journey in tech has been driven by a relentless pursuit of knowledge and a commitment. With 2 years of experience and specializing in modern web technologies, particularly Angular, I have honed my skills in crafting robust and user-friendly applications. I also love working full-stack and set importance on open-source and clean code. Beyond technical stuff, I love to socialise with people, go out with friends and enjoy life.
 
 ## 🌐 Languages Spoken
