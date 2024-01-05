@@ -26,6 +26,7 @@ My fascination with technology began in my early years. This childhood curiosity
 ## 🤝 Socials
 - LinkedIn: [Let's connect!](https://www.linkedin.com/in/danieljancar/)
 - Email: [Contact me!](mailto:danieljancar@bluewin.ch)
+- Website: [danieljancar.dev](https://danieljancar.dev)
 
 ---
 > "Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs
