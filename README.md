@@ -8,13 +8,12 @@ I'm a passionate developer and tech enthusiast. I love to learn new things, work
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
 ## 🛠️ Skills & Technologies
-- Languages: Typescript, Javascript, Java, C#, Swift
-- Frameworks: Angular, NestJS, React, Spring, Ionic
+- Languages: Typescript, Javascript, Java, C#
+- Frameworks: Angular, NestJS, Ionic
 - Tools: Docker, Git, Github Actions
-- Database: MongoDB, MySQL, Redis, SQLite, Firestore
+- Database: MongoDB, MySQL, Redis, SQLite, Firebase
 - Security: Authentication, JWT, Cookies
 - Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge
-- Tools: Excalidraw, Figma, Miro, Stackoverflow, Discord, ISO
 
 ## 📚 Learning & Growing
 - Currently learning: Go
