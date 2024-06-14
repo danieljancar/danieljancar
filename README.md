@@ -23,7 +23,7 @@ Passionate developer and tech enthusiast. I love to learn new things, work with 
 
 ## 🤝 Socials
 - LinkedIn: [Let's connect!](https://www.linkedin.com/in/danieljancar/)
-- Email: [Contact me!](mailto:danieljancar@bluewin.ch)
+- Email: [Contact me!](mailto:dan_jan1@icloud.com)
 - Website: [danieljancar.dev](https://danieljancar.dev)
 
 ---
