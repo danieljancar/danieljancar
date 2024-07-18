@@ -9,10 +9,10 @@ Passionate developer and tech enthusiast. I love to learn new things, work with 
 ## 🛠️ Skills & Technologies
 - Languages: Typescript, Javascript, Java, C#
 - Frameworks: Angular, NestJS, Ionic
-- Tools: Docker, Git, Github Actions
-- Database: MongoDB, MySQL, Redis, SQLite, Firebase
-- Security: Authentication, JWT, Cookies
-- Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge
+- Tools: Docker, Git
+- Database: MongoDB, Firebase, SQLite, Oracle SQL / Avaloq Banking Suite
+- Security: Authentication, JWT, Cookies, Ciber Security
+- Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge, Protocols
 
 ## 📚 Learning & Growing
 - Currently learning: Go
