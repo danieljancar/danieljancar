@@ -7,16 +7,16 @@ Passionate developer and tech enthusiast. I love to learn new things, work with 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
 ## 🛠️ Skills & Technologies
-- Languages: Typescript, Javascript, Java, C#
-- Frameworks: Angular, NestJS, Ionic
+- Languages: Typescript, Javascript, Java, C#, Go
+- Frameworks: Angular, NestJS, Ionic, Laravel
 - Tools: Docker, Git
 - Database: MongoDB, Firebase, SQLite, Oracle SQL / Avaloq Banking Suite
-- Security: Authentication, JWT, Cookies, Ciber Security
+- Security: Authentication, JWT, Cookies, Cyber Security
 - Misc: KISS, Single Responsibility, Open/Closed, Docs, iOS / Android Knowledge, Protocols
 
 ## 📚 Learning & Growing
-- Currently learning: Go
-- Exploring: CI/CD, Cyber Security and Quantum Computing
+- Currently learning: Rust, Blockchain, Stellar & Soroban
+- Exploring: Cyber Security and Quantum Computing
 
 ## 📈 GitHub Analytics
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljancar&show_icons=true&theme=dark)
