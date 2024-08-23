@@ -7,6 +7,7 @@ Passionate developer and tech enthusiast. I love to learn new things, work with 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
 ## 📚 Learning & Growing
+- Currently working: [Celsira](https://github.com/celsira)
 - Currently learning: Rust, Web3, Blockchain, Stellar & Soroban
 - Exploring: Cyber Security and Quantum Computing
 
