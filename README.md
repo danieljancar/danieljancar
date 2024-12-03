@@ -6,18 +6,5 @@ Passionate developer and tech enthusiast. I love to learn new things, work with 
 ## 🔥 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljancar&layout=compact&theme=dark)
 
-## 📚 Learning & Growing
-- Currently working: [Celsira](https://github.com/celsira)
-- Currently learning: Rust, Web3, Blockchain, Stellar & Soroban
-- Exploring: Cyber Security and Quantum Computing
-
 ## 📈 GitHub Analytics
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljancar&show_icons=true&theme=dark)
-
-## 🤝 Socials
-- LinkedIn: [Let's connect!](https://www.linkedin.com/in/danieljancar/)
-- Email: [Contact me!](mailto:dan_jan1@icloud.com)
-- Website: [danieljancar.dev](https://danieljancar.dev)
-
----
-> "Everybody should learn to program a computer because it teaches you how to think." – Steve Jobs
